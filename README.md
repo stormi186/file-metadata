@@ -10,7 +10,7 @@ A Full-stack JavaScript application built using Node, Express, JavaScript, HTML,
 - The from file input field has the "name" attribute set to "upfile". We rely on this in testing.
 - When I submit something, I will receive the file name, and size in bytes within the JSON response.
 
-## Technolgies
+## Technologies
 To handle the file uploading use [multer](https://www.npmjs.com/package/multer) npm package.
 
 ## Live Preview
